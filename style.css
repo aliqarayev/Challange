@@ -73,6 +73,12 @@ img {
   .box {
     display: flex;
     flex-direction: column;
+    padding-left: 50px;
+  }
+  .attribution {
+   position: static;
+    padding-top: 20px;
+  
   }
 }
 
@@ -80,10 +86,8 @@ img {
   font-size: 11px;
   text-align: center;
   color: #fff;
-  position: fixed;
-  left: 0;
-  bottom: 0;
   width: 100%;
+  padding-top:150px ;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
