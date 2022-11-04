@@ -75,19 +75,14 @@ img {
     flex-direction: column;
     padding-left: 50px;
   }
-  .attribution {
-   position: static;
-    padding-top: 20px;
-  
-  }
 }
 
 .attribution {
   font-size: 11px;
   text-align: center;
   color: #fff;
+ padding-top: 20px;
   width: 100%;
-  padding-top:150px ;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
